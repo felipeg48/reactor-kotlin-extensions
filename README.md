@@ -1,3 +1,5 @@
+**[Kotlin support has been integrated directly in reactor-core](https://github.com/reactor/reactor-core/commit/5140235171ddd84a83c761a6868aa55fa2036fbd), as a consequence this repository will be removed when Reactor 3.1.0.RELEASE will be released.**
+
 # Kotlin extensions for Reactor
 
 This library exposes a set of Kotlin [extensions](https://kotlinlang.org/docs/reference/extensions.html)
